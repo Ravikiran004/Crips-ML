@@ -1,0 +1,1 @@
+Discover the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework, a structured approach to machine learning projects. This folder guides you through each phase, from understanding business goals to deploying machine learning models. Includes best practices, case studies, and project templates.
